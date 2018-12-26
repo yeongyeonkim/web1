@@ -1,7 +1,10 @@
 ## JavaScript
 
+배우는 중 입니다.
+
 <ul>
-  <li>HTML</li>
+  <li><a href="opentutorials.org">HTML</a></li>
   <li>CSS</li>
-  <li>CSS</li>
+  <li>JavaScript</li>
 </ul>
+
