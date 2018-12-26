@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <a id="target" href="http://opentutorials.org/course/1">opentutorials</a>
+  <script>
+    var t = document.getElementById('target');
+    console.log(t.getAttribute('href'));
+    t.setAttribute('title', 'opentutorials.org');
+    console.log(t.hasAttribute('title'));
+    t.removeAttribute('title');
+  </script>
+</body>
+</html>

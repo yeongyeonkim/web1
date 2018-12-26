@@ -1,0 +1,43 @@
+-노드를 추가하는 방법-
+
+<li>HTML</li>
+<li>CSS</li>
+이쪽부분
+appendChild(li) => 제일 끝에 추가 된다.
+appendChild라는 API는 경우에따라서 이미 만들어져있는 이미 만들어진 element
+사이에 놓거나 제일 앞에 두고싶을 때가 있을 것인데
+이때 insertBefore API를 사용하면된다.
+
+target.insertBefore(li, target.firstChild);
+
+target.firstChild는
+ul와 첫 li 사이의 공백이므로
+jQuery라는 텍스트노드를 가진 li Element가 추가가 된다.
+
+-노드를 제거, 교체 하는 방법-
+
+
+우리가 삭제하려는 대상도 알아야하고 부모도 알아야하는 불편함이
+있다는게 Dom이 여러 비판 받는 이유가 된다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
