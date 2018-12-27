@@ -1,4 +1,4 @@
-<h1>JavaScript<h1>
+## JavaScript
 
 배우는 중 입니다.
 
