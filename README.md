@@ -8,3 +8,4 @@
   <li><a href="https://www.youtube.com/watch?v=Rd8wPTSB27M&list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX&index=61">JavaScript</a></li>
 </ul>
 
+<a href="https://dudtbd111.tistory.com/">My Blog</a>
